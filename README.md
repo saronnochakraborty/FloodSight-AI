@@ -20,7 +20,7 @@ It features live-updating charts, prediction history, and risk alerts, all in a 
 
 ## ⚙️ How to Use
 
-1. Download the latest release from the [GitHub Releases](https://github.com/saronnochakraborty/FloodSight/releases) page.  
+1. Download the latest release from the [GitHub Releases](https://github.com/saronnochakraborty/FloodSight-AI/releases) page.  
 2. Extract the ZIP if needed.  
 3. Head over to ..streamlit_app\tensorflow_model\assets and unzip the dataset 
 3. Follow the bash code given below 
